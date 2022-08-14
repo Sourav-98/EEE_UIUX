@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/EEE_UIUX/UIUX3_Tables/static/css/main.a9edcb7f.css",
-    "main.js": "/EEE_UIUX/UIUX3_Tables/static/js/main.2a62a3d1.js",
-    "static/js/787.2b6f8de9.chunk.js": "/EEE_UIUX/UIUX3_Tables/static/js/787.2b6f8de9.chunk.js",
-    "static/media/logo.svg": "/EEE_UIUX/UIUX3_Tables/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/EEE_UIUX/UIUX3_Tables/index.html",
-    "main.a9edcb7f.css.map": "/EEE_UIUX/UIUX3_Tables/static/css/main.a9edcb7f.css.map",
-    "main.2a62a3d1.js.map": "/EEE_UIUX/UIUX3_Tables/static/js/main.2a62a3d1.js.map",
-    "787.2b6f8de9.chunk.js.map": "/EEE_UIUX/UIUX3_Tables/static/js/787.2b6f8de9.chunk.js.map"
+    "main.css": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/css/main.a9edcb7f.css",
+    "main.js": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/js/main.758a3dfa.js",
+    "static/js/787.2b6f8de9.chunk.js": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/js/787.2b6f8de9.chunk.js",
+    "static/media/logo.svg": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EEE_UIUX/UIUX3_Tables/uiuxtables/index.html",
+    "main.a9edcb7f.css.map": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/css/main.a9edcb7f.css.map",
+    "main.758a3dfa.js.map": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/js/main.758a3dfa.js.map",
+    "787.2b6f8de9.chunk.js.map": "/EEE_UIUX/UIUX3_Tables/uiuxtables/static/js/787.2b6f8de9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9edcb7f.css",
-    "static/js/main.2a62a3d1.js"
+    "static/js/main.758a3dfa.js"
   ]
 }
